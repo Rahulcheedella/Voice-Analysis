@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+pydub
+textblob
+plotly
+pandas
