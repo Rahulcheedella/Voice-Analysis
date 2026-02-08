@@ -8,6 +8,10 @@ This project is developed using **Python 3.13**, **Streamlit**, and **NLP-based 
 
 ---
 
+## Live link :  
+- https://voice-analysis-726d.onrender.com
+---
+
 ## 🎯 Objectives
 - Accept voice/audio input from the user
 - Convert speech to text
